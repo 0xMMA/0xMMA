@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Martin</h1>
-<h3 align="center">A C# dude from germany</h3>
+<h3 align="center">A C# dev from germany</h3>
 
 - 🌱 I’m currently learning **React**
 
