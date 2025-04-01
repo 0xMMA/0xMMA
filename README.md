@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michael Martin</h1>
 <h3 align="center">A C# dev from germany</h3>
 
-- 🌱 I’m currently learning **React**
+- 🚀 I’m currently vibe coding with **Claude code**
 
 - 💬 Ask me about **clean code, patterns, how not to do it**
 
-- :rocket: I am hyped for **[Copilot-X](https://github.com/features/preview/copilot-x)**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
