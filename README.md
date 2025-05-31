@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Martin</h1>
+<h1 align="center">Hi, I'm Michael Martin</h1>
 <h3 align="center">C# Developer from Germany – Coding with Passion and Innovation</h3>
 
 # About Me
