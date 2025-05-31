@@ -18,8 +18,8 @@
 Instead of an endless array of icons, here’s a concise overview of my toolkit:
 
 - **Backend:** C# & .NET – delivering reliable and scalable solutions.
-- **Frontend:** JavaScript, TypeScript, React – for dynamic and interactive experiences.
-- **Tools & DevOps:** Git, Docker, Linux, Azure – because quality craftsmanship requires the right tools.
+- **Frontend:** JavaScript, TypeScript, React – for dynamic and interactive experiences and svelte for smaller stuff.
+- **Tools & DevOps:** Git, GitHub, Docker, Linux, Azure – because quality craftsmanship requires the right tools.
 - **And More:** From databases to modern frameworks – always exploring that next “wow” moment.
 
 
