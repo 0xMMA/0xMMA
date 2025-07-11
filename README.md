@@ -32,4 +32,7 @@ Instead of an endless array of icons, here’s a concise overview of my toolkit:
 - **Source of Inspiration:**  
   - [Nick Chapsas](https://www.youtube.com/@nickchapsas)
   - [Fireship](https://www.youtube.com/@Fireship)
+- **News Aggregators**
+  - [C# digest](https://csharpdigest.net/)
+  - [AlphaSignal (AI stuff)](https://alphasignal.ai/)
 
